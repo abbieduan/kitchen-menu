@@ -1,0 +1,166 @@
+{
+  "dishData": [
+    {
+      "name": "Festive Roast Chicken",
+      "chineseName": "烤鸡",
+      "ingredients": "Marinated Chicken filled with apples and onions. Roasted for three hours",
+      "price": 32,
+      "photoName": "dishes/dish-1.jpg",
+      "soldOut": false,
+      "recommendation": 2
+    },
+    {
+      "name": "Aubergine with Minced Pork",
+      "chineseName": "鱼香肉丝",
+      "ingredients": "Chinese aubergine and minced pork",
+      "price": 6,
+      "photoName": "dishes/dish-2.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Wintermelon with Minced Pork",
+      "chineseName": "清炒冬瓜",
+      "ingredients": "Wintermelon and minced pork",
+      "price": 10,
+      "photoName": "dishes/dish-3.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Pita Bread Soaked in Beef Soup",
+      "chineseName": "牛肉泡馍",
+      "ingredients": "Pita bread, tomato, carrot, beef, and wood ear fungus",
+      "price": 12,
+      "photoName": "dishes/dish-4.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Dried Tofu with Pig Ear",
+      "chineseName": "香干炒猪耳",
+      "ingredients": "Pig ear and dried tofu",
+      "price": 12,
+      "photoName": "dishes/dish-5.jpg",
+      "soldOut": false,
+      "recommendation": 3
+    },
+    {
+      "name": "Cola Chicken Wings",
+      "chineseName": "可乐鸡翅",
+      "ingredients": "Coca-Cola and chicken wings",
+      "price": 15,
+      "photoName": "dishes/dish-6.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    },
+    {
+      "name": "Roasted Lamb Ribs",
+      "chineseName": "烤羊排",
+      "ingredients": "Lamb ribs, onion, and apple",
+      "price": 18,
+      "photoName": "dishes/dish-7.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    },
+    {
+      "name": "Fried Pork Belly",
+      "chineseName": "小炒回锅肉",
+      "ingredients": "Pork Belly, green peppers, and garlic sprouts ",
+      "price": 18,
+      "photoName": "dishes/dish-8.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Spicy Shredded Chicken Thigh",
+      "chineseName": "口水鸡",
+      "ingredients": "Chicken thigh, cucumber, bean sprouts, bird eye chillies ",
+      "price": 18,
+      "photoName": "dishes/dish-9.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Stewed Beef Belly with Tomato",
+      "chineseName": "番茄牛腩",
+      "ingredients": "Beef belly, tomato, potato, carrot",
+      "price": 18,
+      "photoName": "dishes/dish-10.jpg",
+      "soldOut": false,
+      "recommendation": 3
+    },
+    {
+      "name": "Stewed Beef Belly with White Radish",
+      "chineseName": "清汤牛腩",
+      "ingredients": "Beef belly and white radish",
+      "price": 18,
+      "photoName": "dishes/dish-11.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Boneless Chicken Feet Cold Salad with Lemon",
+      "chineseName": "柠檬鸡爪",
+      "ingredients": "Chicken feet, lemon, garlic",
+      "price": 18,
+      "photoName": "dishes/dish-12.jpg",
+      "soldOut": false,
+      "recommendation": 4
+    },
+    {
+      "name": "Pork Shoulder with Celtuce",
+      "chineseName": "莴笋炒肉",
+      "ingredients": "Pork shoulder and celtuce",
+      "price": 18,
+      "photoName": "dishes/dish-19.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    },
+    {
+      "name": "Mango Sago",
+      "chineseName": "芒果西米露",
+      "ingredients": "Mango, sago, and coconut jelly",
+      "price": 18,
+      "photoName": "dishes/dish-14.jpg",
+      "soldOut": false,
+      "recommendation": 3
+    },
+    {
+      "name": "Cola Pork Ribs with Rice Cake",
+      "chineseName": "可乐年糕排骨",
+      "ingredients": "Pork Ribs and rice cake",
+      "price": 18,
+      "photoName": "dishes/dish-15.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    },
+    {
+      "name": "Steamed Chicken Thigh with Cordyceps Flower",
+      "chineseName": "虫草花蒸鸡",
+      "ingredients": "Chicken thigh, cordyceps flower, and shiitake mushroom",
+      "price": 18,
+      "photoName": "dishes/dish-16.jpg",
+      "soldOut": false,
+      "recommendation": 3
+    },
+    {
+      "name": "Beef in Sour Soup",
+      "chineseName": "酸汤肥牛",
+      "ingredients": "Beef, enoki mushroom, pickled cabbages, and chilies",
+      "price": 18,
+      "photoName": "dishes/dish-17.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    },
+    {
+      "name": "Salted Egg Yolk Chicken Wings",
+      "chineseName": "金沙鸡翅",
+      "ingredients": "Salted egg yolk and chicken wings",
+      "price": 18,
+      "photoName": "dishes/dish-18.jpg",
+      "soldOut": false,
+      "recommendation": 5
+    }
+  ]
+}
