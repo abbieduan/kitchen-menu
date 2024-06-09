@@ -12,7 +12,6 @@ export function Dish({ dishObj }) {
         <h3 className="chineseName">{dishObj.chineseName}</h3>
         <h3 className="englishName">{dishObj.name}</h3>
         <p>{dishObj.ingredients}</p>
-        {/* <span>{dishObj.soldOut ? "SOLD OUT" : dishObj.price}</span> */}
         <span className="recommendation">
           {[...Array(fullHeart)].map((_, index) => (
             <FontAwesomeIcon key={index} icon={faHeart} className="icon" />
