@@ -3,7 +3,7 @@
     {
       "name": "Festive Roast Chicken",
       "chineseName": "烤鸡",
-      "ingredients": "Marinated Chicken filled with apples and onions. Roasted for three hours",
+      "ingredients": "Marinated chicken filled with apples and onions. Roasted for three hours",
       "price": 32,
       "photoName": "dishes/dish-1.jpg",
       "soldOut": false,
@@ -66,7 +66,7 @@
     {
       "name": "Fried Pork Belly",
       "chineseName": "小炒回锅肉",
-      "ingredients": "Pork Belly, green peppers, and garlic sprouts ",
+      "ingredients": "Pork belly, green peppers, and garlic sprouts ",
       "price": 18,
       "photoName": "dishes/dish-8.jpg",
       "soldOut": false,
@@ -102,7 +102,7 @@
     {
       "name": "Boneless Chicken Feet Cold Salad with Lemon",
       "chineseName": "柠檬鸡爪",
-      "ingredients": "Chicken feet, lemon, garlic",
+      "ingredients": "Chicken feet, lemon, and garlic",
       "price": 18,
       "photoName": "dishes/dish-12.jpg",
       "soldOut": false,
@@ -129,7 +129,7 @@
     {
       "name": "Cola Pork Ribs with Rice Cake",
       "chineseName": "可乐年糕排骨",
-      "ingredients": "Pork Ribs and rice cake",
+      "ingredients": "Pork ribs and rice cake",
       "price": 18,
       "photoName": "dishes/dish-15.jpg",
       "soldOut": false,
