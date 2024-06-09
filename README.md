@@ -2,6 +2,8 @@
 
 Welcome to Abbie's Kitchen, a delightful web application designed to showcase Abbie's most cherished recipes along with her personal recommendations. This project uses the modern capabilities of Vite and React to deliver a dynamic and responsive user experience.
 
+This webpage is deployed at https://abbieduan.github.io/travel-list/ 😊 Check it out! Welcome to provide more recipes to expand my food kingdom 😋
+
 ## Features
 
 - **Display Dishes**: View a curated list of dishes that Abbie frequently cooks.
